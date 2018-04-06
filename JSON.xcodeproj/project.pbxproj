@@ -13,6 +13,7 @@
 		DC294D3E2076D6D900133F80 /* JSON.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DC294D3C2076D6D900133F80 /* JSON.xcdatamodeld */; };
 		DC294D402076D6D900133F80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC294D3F2076D6D900133F80 /* Assets.xcassets */; };
 		DC294D432076D6D900133F80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC294D412076D6D900133F80 /* LaunchScreen.storyboard */; };
+		DC294D4B2076D76100133F80 /* practice.json in Resources */ = {isa = PBXBuildFile; fileRef = DC294D4A2076D76100133F80 /* practice.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC294D3F2076D6D900133F80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC294D422076D6D900133F80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC294D442076D6DA00133F80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC294D4A2076D76100133F80 /* practice.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = practice.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				DC294D412076D6D900133F80 /* LaunchScreen.storyboard */,
 				DC294D442076D6DA00133F80 /* Info.plist */,
 				DC294D3C2076D6D900133F80 /* JSON.xcdatamodeld */,
+				DC294D4A2076D76100133F80 /* practice.json */,
 			);
 			path = JSON;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC294D4B2076D76100133F80 /* practice.json in Resources */,
 				DC294D432076D6D900133F80 /* LaunchScreen.storyboard in Resources */,
 				DC294D402076D6D900133F80 /* Assets.xcassets in Resources */,
 				DC294D3B2076D6D900133F80 /* Main.storyboard in Resources */,

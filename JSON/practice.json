@@ -1,0 +1,28 @@
+
+
+{
+    
+    "casinos":[
+                 {
+                 "id": 1,
+                 "casino_name": "Aria",
+                 "image_name": "3aria",
+                 "location": "3760 Flamingo rd",
+                 "website": "https://www.aria.com"
+                 },
+                 {
+                 "id": 2,
+                 "casino_name": "Ballys",
+                 "image_name": "3ballys",
+                 "location": "3760 Flamingo rd",
+                 "website": "https://www.ballys.com"
+                 },
+                 {
+                 "id": 3,
+                 "casino_name": "Bellagio",
+                 "image_name": "3bellagio",
+                 "location": "3760 Flamingo rd",
+                 "website": "https://www.bellagio.com"
+                 }
+                 ]
+}
